@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Gestion de Proyectos",
+    "packageVersion": "0.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "cortezcristian",
+    "githubRepository": "development-talk"
+  }
+}
