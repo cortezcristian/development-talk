@@ -1,8 +1,14 @@
 [
     "index.md",
     "slide-title.html",
-    "group-work.html",
-    "entropy.html",
-    "desorden.html",
+    [
+        "sistemas-de-versionado.html",
+        "group-work.html",
+        "entropy.html",
+        "desorden.html",
+        "diff-patch.html",
+        "control-de-versiones.html",
+        "git.html"
+    ],
     "control-de-versiones.html"
 ]
