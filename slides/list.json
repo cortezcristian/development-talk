@@ -8,7 +8,16 @@
         "desorden.html",
         "diff-patch.html",
         "control-de-versiones.html",
-        "git.html"
+        "git.html",
+        "branching.html",
+        "github.html"
     ],
-    "control-de-versiones.html"
+    [
+        "requirements.html"
+    ],
+    "control-de-versiones.html",
+    "quality.html",
+    "continuous-integration.html",
+    "production.html",
+    "product.html"
 ]
